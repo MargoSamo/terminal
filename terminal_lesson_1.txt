@@ -1,7 +1,12 @@
-cd
-mkdir
-touch
-vim
-pwd
-rm
-mv
+Посмотреть где я - pwd
+Создать папку - mkdir foldername
+Зайти в папку - cd foldername
+Создать 3 папки - mkdir foldername1 foldername2 foldername3 
+Зайти в любую папку - cd foldername1
+Создать 5 файлов (3 txt, 2 json)  - touch one.txt two.txt three.txt four.json five.json
+Создать 3 папки - mkdir foldername1 foldername2 foldername3 
+Вывести список содержимого папки - ls
++ Открыть любой txt файл - cat > one.txt
++ написать туда что-нибудь, любой текст - Пишем текст в файле
++ сохранить и выйти - Ctrl + D 
+Выйти из папки на уровень выше - cd ..
